@@ -6,7 +6,8 @@ const COLOR_PALETTE = {
   '#FFAA5A': 'Sandy Brown',
   '#FF785A': 'Bittersweet',
   '#191919': 'Eerie Black',
-  '#f5f5f5': 'Whitesmoke'
+  '#f5f5f5': 'Whitesmoke',
+  '#d2691e': 'Chocolate'
 }
 
 const addOptionsToColorPicker = () => {
